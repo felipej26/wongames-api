@@ -36,7 +36,7 @@
       "required": true,
       "default": 0
     },
-    "realease_date": {
+    "release_date": {
       "type": "date"
     },
     "rating": {
